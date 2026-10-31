@@ -5,4 +5,4 @@
 🛠️ Current Project: Smart Agriculture ESP32 <br>
 💻 Skills: ESP32, IoT, Wokwi, Sensors
 
-> Preparing for MEXT from 2nd Year B.Tech | Bachelor ends 2030
+> Preparing for MEXT from 1st Year B.Tech | Bachelor ends 2030
